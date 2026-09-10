@@ -1,0 +1,16 @@
+{
+  "name": "gmailburner",
+  "version": "1.0.0",
+  "description": "CLI utility for disposable email inboxes with real-time OTP interception",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "boxen": "^5.1.2",
+    "chalk": "^4.1.2",
+    "cli-table3": "^0.6.5",
+    "ora": "^5.4.1"
+  },
+  "license": "MIT"
+}
